@@ -38,4 +38,4 @@ For each task, I seek to understand what is the most suitable technology to adre
 
 <h4>📊 Profile analytics</h4>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rm-rfred&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="rm-rfred github stats" /></a> <a href="https://github.com/rf-rfred/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rm-rfred&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rm-rfred&show_icons=true&theme=radical" alt="rm-rfred github stats" /></a> <a href="https://github.com/rf-rfred/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rm-rfred&layout=compact&theme=radical&hide_border=true" width=350 /></a>
